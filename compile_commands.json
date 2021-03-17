@@ -1,0 +1,7 @@
+[
+    { 
+        "directory": "/mnt/c/Workspace/test",
+        "command": "gcc -c test.c",
+        "file": "test.c" 
+    }
+]
